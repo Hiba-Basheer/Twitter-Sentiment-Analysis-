@@ -48,9 +48,9 @@ Negative       0.80      0.80      0.80      4509
 Positive       0.78      0.77      0.78      4180
 
 accuracy                           0.77     12339
-
 macro avg 0.76 0.76 0.76 12339
 weighted avg 0.77 0.77 0.77 12339
+
 
 
 ---
