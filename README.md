@@ -41,7 +41,7 @@ The objective of this project is to classify tweets into three sentiment categor
 
 ## 📈 Results
 
- ```text     precision  recall  f1-score  support
+```text     precision  recall  f1-score  support```
    Negative  0.80       0.80    0.80      4509
    Neutral   0.71       0.71    0.71      3650
    Positive  0.78       0.77    0.78      4180
